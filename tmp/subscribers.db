@@ -1,0 +1,4 @@
+{"name":"bob","email":"bob@email.com","subject":"","message":"hire me 2x","dateString":"","schema":"subscriber","timestamp":{"$$date":1608563601131},"_id":"Jl2XdKSJlTg033pV"}
+{"name":"Michael","email":"mike@gmail.com","subject":"","message":"I want to hire you","dateString":"","schema":"subscriber","timestamp":{"$$date":1608563695747},"_id":"UazL2VFodrHM7Anf"}
+{"firstName":"MArianne","email":"mariannec.matias@gmail.com","subject":"Test","message":"Test content","dateString":"","schema":"subscriber","timestamp":{"$$date":1561688468081},"_id":"wHD8DFNMUFurAWhS"}
+{"name":"tommy","email":"thomas@gmail.com","subject":"","message":"i want to hre tommy too","dateString":"","schema":"subscriber","timestamp":{"$$date":1608564310443},"_id":"UAWcAFuPAGqyDEpi"}
